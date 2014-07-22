@@ -1,4 +1,0 @@
-Readme.txt
-==========
-
-Please read
